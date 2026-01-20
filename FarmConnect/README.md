@@ -1,1 +1,0 @@
-FarmConnect is an app/website that helps farmers connect directly to consumers. The app aims to connect people who want to buy organic crops with farmers who provide them at transparent prices.
